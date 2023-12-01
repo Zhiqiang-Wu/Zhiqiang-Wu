@@ -56,5 +56,3 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg' width='25' height='25' alt='webstorm'>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg' width='25' height='25' alt='yarn'>
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Zhiqiang-Wu.Zhiqiang-Wu)
